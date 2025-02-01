@@ -1,0 +1,1 @@
+Generate concrete examples to clarify or illustrate the selected text. If the text is not suitable for generating examples, respond with: "No examples are applicable here."

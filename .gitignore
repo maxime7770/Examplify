@@ -1,4 +1,8 @@
 *.zip
 venv/
 backend/venv/
-*.png
+
+frontend/icons/icon16.png
+frontend/icons/icon128.png
+
+screenshot_*.png
